@@ -1,0 +1,13 @@
+https://huongdanjava.com/vi/spring-framework-co-ban
+
+https://o7planning.org/vi/10959/spring-mvc
+
+https://techtalk.vn/19-bi-kip-ban-co-the-dung-khi-pham-sai-lam-voi-git.html
+
+
+https://topdev.vn/blog/lap-trinh-huong-doi-tuong/
+
+
+https://medium.com/@salisuwy/building-a-spring-boot-rest-api-part-iii-integrating-mysql-database-and-jpa-81391404046a
+
+https://www.javatpoint.com/example-to-connect-to-the-mysql-database

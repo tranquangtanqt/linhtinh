@@ -1,0 +1,16 @@
+https://www.vogella.com/tutorials/MySQLJava/article.html
+
+https://o7planning.org/vi/10311/huong-dan-spring-mvc-va-spring-jdbc-transaction
+
+https://medium.com/@salisuwy/building-a-spring-boot-rest-api-part-iii-integrating-mysql-database-and-jpa-81391404046a
+
+https://github.com/salisuwy/building-spring-boot-resp-api-v3/blob/master/pom.xml
+
+https://huongdanjava.com/vi/spring-framework-co-ban
+
+
+https://crunchify.com/java-mysql-jdbc-hello-world-tutorial-create-connection-insert-data-and-retrieve-data-from-mysql/
+
+https://daynhauhoc.com/t/cach-post-code-dung-markdown-trong-category-programming/112
+
+https://love2dev.com/blog/javascript-remove-from-array/

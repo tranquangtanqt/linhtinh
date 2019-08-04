@@ -1,0 +1,32 @@
+color: #005c5c xanh
+    color: #eb5055; do
+color: #e8ce0e; vang
+
+https://www.jqueryscript.net/time-clock/Dynamic-Animated-Timeline-Slider.html
+
+https://www.jqueryscript.net/demo/Fancy-File-Uploader-jQuery/
+
+https://markus.oberlehner.net/blog/distributed-vue-applications-loading-components-via-http/?fbclid=IwAR3-8OZ5a5lfZLWPhJDumIKe7cf0zFUueV9tjReVWQnXHr2jEaraIGyo3lU
+
+https://alligator.io/vuejs/vue-chart-js/
+
+check object is empty js
+isEmpty(obj) {
+	for(var key in obj) {
+	    if(obj.hasOwnProperty(key))
+	        return false;
+	}
+	return true;
+}
+
+check object std is empty
+if (empty((array) $user)) {
+            
+}
+
+https://topdev.vn/blog/thiet-ke-giao-dien-web-bang-file-psd/
+
+https://daynhauhoc.com/t/hoi-cat-chuoi-trong-php/33788
+
+Auto scroll in Angular 2+ using directive
+https://medium.com/@datdt1935/auto-scroll-in-angular-2-using-directive-76539d365238WJZ_vWzeDB3g
